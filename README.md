@@ -1,3 +1,24 @@
-## Calculadora de Gorjetas
+# 💰 Calculadora de Gorjeta
 
-###Calculadora desenvolvida com HTML, CSS e JS e um designer responsivo. Ele calcula o valor total que deu uma conta, mais o valor da gorjeta, dividindo entre outras pessoas o valor da conta. Projeto desenvolvido apenas para estudos.
+Calculadora para adicionar uma porcentagem de gorjeta à conta e dividir o valor entre várias pessoas.
+
+🔗 [Acesse o site](https://gracicosta.github.io/Tip-Calculator/)
+
+## 📷 Prévia
+
+![Prévia da Calculadora de Gorjeta](image/project-preview.png)
+
+## ⚙️ Funcionalidades
+
+- Informar o valor da conta.
+- Escolher a porcentagem de gorjeta.
+- Dividir o total entre várias pessoas.
+- Consultar o valor total e o valor por pessoa.
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+Projeto desenvolvido para estudo e prática de desenvolvimento web.
